@@ -24,32 +24,42 @@ I love building **personal learning projects** to explore data engineering, clou
 
 ### 🛠️ Skills & Technologies
 
-| Category | Tools |
-|----------|-------|
-| 🗄️ Databases | Snowflake, BigQuery, Azure SQL, PostgreSQL |
-| ⚙️ ETL / Data Pipelines | IBM DataStage, Informatica, Talend, Databricks, Azure Data Factory |
-| ☁️ Cloud Platforms | Azure, GCP, AWS |
-| 🧠 Programming | Python, SQL |
-| 🔄 Orchestration & Scheduling | IBM DataStage Sequencer, Informatica Scheduler, Control-M, Autosys, Stonebranch |
-| 📋 Project Management | PMP® Certified, Scrum, Waterfall, Agile Hybrid, Stakeholder & Risk Management |
+<p align="justify">
+🗄️ Databases: Snowflake, BigQuery, Azure SQL, PostgreSQL
+<p align="justify">
+⚙️ ETL / Data Pipelines: IBM DataStage, Informatica, Talend, Databricks, Azure Data Factory
+<p align="justify">
+☁️ Cloud Platforms: Azure, GCP, AW
+<p align="justify">
+🧠 Programming: Python, SQL
+<p align="justify">
+🔄 Orchestration & Scheduling: IBM DataStage Sequencer, Informatica Scheduler, Control-M, Autosys, Stonebranch
+<p align="justify">
+📋 Project Management: PMP® Certified, Scrum, Waterfall, Agile Hybrid, Stakeholder & Risk Management
 
 ---
 
 ### 📚 Learning & Upskilling
 
-| Focus Area | Topics |
-|------------|--------|
-| 🚀 Cloud & Warehousing | Azure Data Engineering (DP-203), Snowflake, Databricks |
-| ⚙️ ETL / Data Pipelines | Databricks, Azure Data Factory |
-| 🔥 Orchestration & CI/CD | Airflow, ADF, GitHub Actions |
-| ⚙️ Data Transformation | dbt, PySpark, SQL optimization |
-| 🤖 Automation & AI | AI-Assisted Data Engineering, Workflow Automation |
-| 🧠 Advanced Programming | Python, PySpark |
-| 🏗️ Data Architecture | Data Lakehouse, Delta Lake, Warehouse Modeling (Kimball, Star Schema) |
+<p align="justify">
+🚀 Cloud & Warehousing: Azure Data Engineering (DP-203), Snowflake, Databricks
+<p align="justify">
+⚙️ ETL / Data Pipelines: Databricks, Azure Data Factory
+<p align="justify">
+🔥 Orchestration & CI/CD: Airflow, ADF, GitHub Actions
+<p align="justify">
+⚙️ Data Transformation: dbt, PySpark, SQL optimization
+<p align="justify">
+🤖 Automation & AI: AI-Assisted Data Engineering, Workflow Automation
+<p align="justify">
+🧠 Advanced Programming: Python, PySpark
+<p align="justify">
+🏗️ Data Architecture: Data Lakehouse, Delta Lake, Warehouse Modeling (Kimball, Star Schema)
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/marlo-romanillos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -65,4 +75,5 @@ I love building **personal learning projects** to explore data engineering, clou
 ---
 
 ### ⚡ Quote I Live By
+
 > *"Learn it, build it, break it, improve it — that’s how growth works."*
