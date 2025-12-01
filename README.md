@@ -7,11 +7,11 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-I am a results-driven IT professional with deep experience in **ETL workflows**, **data migration**, **data pipelines**, **business intelligence**, and **workflow orchestration**.  I specialize in **architecting and optimizing data solutions**, leading cross-functional teams, and aligning technology with real business needs.
+I am a results - driven IT professional with extensive experience in **ETL workflows**, **data migration**, **data pipelines**, **business intelligence**, and **workflow orchestration**.  I specialize in **architecting and optimizing data solutions**, leading cross-functional teams, and aligning technology with real business needs.
 </p>
 
 <p align="justify">
-I love building **personal learning projects** to explore data engineering, cloud platforms, AI assistance, and analytics—there's always something new to create, test, and learn.
+I love building **personal learning projects** to explore data engineering, cloud platforms, AI assistance, and analytics - there's always something new to create, test, and learn.
 </p>
 
 ---
