@@ -76,4 +76,4 @@ I love building **personal learning projects** to explore data engineering, clou
 
 ### ⚡ Quote I Live By
 
-> *"Learn it, build it, break it, improve it - that’s how growth works."*
+*"Learn it, build it, break it, improve it - that’s how growth works."*
