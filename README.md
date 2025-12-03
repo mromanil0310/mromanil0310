@@ -36,6 +36,7 @@ I love building **personal learning projects** to explore data engineering, clou
 🔄 Orchestration & Scheduling: IBM DataStage Sequencer, Informatica Scheduler, Control-M, Autosys, Stonebranch
 <p align="justify">
 📋 Project Management: PMP® Certified, Scrum, Waterfall, Agile Hybrid, Stakeholder & Risk Management
+</p>
 
 ---
 
