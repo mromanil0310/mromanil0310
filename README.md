@@ -29,7 +29,7 @@ I love building **personal learning projects** to explore data engineering, clou
 <p align="justify">
 ⚙️ ETL / Data Pipelines: IBM DataStage, Informatica, Talend, Databricks, Azure Data Factory
 <p align="justify">
-☁️ Cloud Platforms: Azure, GCP, AW
+☁️ Cloud Platforms: Azure, GCP, AWS
 <p align="justify">
 🧠 Programming: Python, SQL
 <p align="justify">
